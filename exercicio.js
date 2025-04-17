@@ -17,7 +17,7 @@ do {
         }
     }
 
-    console.table(dados); // Mostra o array após cada rodada
+    console.table(dados); 
 } while (!ordenado);
 
 console.log("Array final ordenado:");
